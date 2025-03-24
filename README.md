@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **2nd-year student at EPITECH Lyon**, passionate about **Artificial Intelligence**, **Mathematics and Physics** and **low-level development**. I am currectly working at **PoC Services** and **Junior Conseil Taker** as an **AI Engineer** and at **PoC Innovation** as a **AI R&D Developer**
+I'm a **2nd-year student at EPITECH Lyon**, passionate about **Artificial Intelligence**, **Mathematics and Physics** and **low-level development**. I am currectly working at **PoC Services** and **Junior Conseil Taker** as an **AI Engineer** and at **PoC Innovation** as a **AI R&D Developer**.
 
 ---
 
